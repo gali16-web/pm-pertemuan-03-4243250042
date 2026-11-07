@@ -1,0 +1,6 @@
+name: pm_tugas_03
+description: Kalkulator IP Semester (Console) - Tugas Rutin 3 Pemrograman Mobile
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
